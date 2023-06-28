@@ -1,0 +1,82 @@
+collections:
+  annotations:
+    output: true
+    permalink: /annotations/:name
+  exhibits:
+    output: true
+  qatar:
+    images:
+      source: raw_images/qatar
+    layout: qatar_item
+    metadata:
+      source: qatar.csv
+    output: true
+copyright: Example copyright org, 2019
+description: Minimal Exhibitions with Jekyll
+exclude:
+- Gemfile*
+- Rakefile
+- vendor
+- spec
+- README.md
+footer:
+  links:
+  - label: GitHub
+    link: https://github.com/minicomp/wax
+  - label: Credits
+    link: /credits
+  - label: Contact
+    link: https://gitter.im/minicomp/wax/
+  logos:
+  - img: /img/logo.png
+incremental: true
+kramdown:
+  auto_ids: true
+  enable_coderay: false
+  entity_output: as_char
+  footnote_backlink: '&#x21a9;&#xfe0e;'
+  footnote_nr: 1
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+logo: /assets/logo.png
+menu:
+- label: About
+  sub:
+  - label: Wax
+    link: /about/
+  - label: Documentation
+    link: https://minicomp.github.io/wiki/wax/
+  - label: Credits
+    link: /credits/
+- label: Exhibits
+  sub:
+  - label: Inline Parallax Image
+    link: /exhibits/a/
+  - label: Inline Image References
+    link: /exhibits/b/
+- label: Browse
+  link: /collection/
+- label: Search
+  link: /search/
+- label: Reuse
+  link: /reuse/
+permalink: pretty
+sass:
+  style: compressed
+search:
+  main:
+    collections:
+      qatar:
+        content: false
+        fields:
+        - artist
+        - location
+        - label
+        - _date
+        - object_type
+        - current_location
+    index: /search/index.json
+title: Wax
+webrick:
+  headers:
+    Access-Control-Allow-Origin: '*'
