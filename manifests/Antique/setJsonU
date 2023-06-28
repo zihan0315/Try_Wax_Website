@@ -1,23 +1,23 @@
 ---
-added: '2023-06-28 14:36:47.808315'
+added: '2023-06-28 14:37:23.513363'
 thumbnail: ''
 title: ''
 
 ---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://zihan0315.github.io/Try_Wax_Website/manifests/Antique/setJsonU?uid=2686&Dept=U/manifest.json",
+  "@id": "https://zihan0315.github.io/Try_Wax_Website/manifests/Antique/setJsonU?uid=2688&Dept=U/manifest.json",
   "@type": "sc:Manifest",
-  "label": "NPM \u6545\u5bae - \u7389\u58a8\u74f6\u7b46\u5ba4",
+  "label": "NPM \u6545\u5bae - \u82b1\u5f0f\u7389\u76e4",
   "logo": "https://www.npm.gov.tw/images/favicon/apple-icon-57x57.png",
   "metadata": [
     {
       "label": "Chinese Title",
-      "value": "\u7389\u58a8\u74f6\u7b46\u5ba4"
+      "value": "\u82b1\u5f0f\u7389\u76e4"
     },
     {
       "label": "English Title",
-      "value": "Jade ink bottle and brush case"
+      "value": "Jade floral plate"
     },
     {
       "label": "Time",
@@ -26,12 +26,12 @@ title: ''
   ],
   "rendering": [
     {
-      "@id": "https://digitalarchive.npm.gov.tw/Antique/Content?uid=2686&Dept=U",
+      "@id": "https://digitalarchive.npm.gov.tw/Antique/Content?uid=2688&Dept=U",
       "format": "text/html",
       "label": "DigitalArchives"
     },
     {
-      "@id": "https://digitalarchive.npm.gov.tw/Antique/IIIFViewer?uid=2686&Dept=U",
+      "@id": "https://digitalarchive.npm.gov.tw/Antique/IIIFViewer?uid=2688&Dept=U",
       "format": "text/html",
       "label": "IIIF Viewer"
     }
@@ -44,24 +44,24 @@ title: ''
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "label": "K1C003231N000000000PAA",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAA",
+          "label": "K1C003238N000000000PAA",
+          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAA",
           "@type": "sc:Canvas",
           "height": "1000",
           "width": "1000",
           "images": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAA",
+              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003238N000000000PAA",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAA",
+              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAA",
               "resource": {
                 "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAA/full/,300/0/default.jpg",
+                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAA/full/,300/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAA",
+                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAA",
                   "@context": "https://iiif.io/api/image/2/context.json",
                   "profile": "https://iiif.io/api/image/2/level1.json"
                 }
@@ -70,30 +70,30 @@ title: ''
           ],
           "otherContent": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAA&ObjectID=2686&Dept=U",
+              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003238N000000000PAA&ObjectID=2688&Dept=U",
               "@type": "sc:AnnotationList"
             }
           ]
         },
         {
-          "label": "K1C003231N000000000PAB",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAB",
+          "label": "K1C003238N000000000PAB",
+          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAB",
           "@type": "sc:Canvas",
           "height": "1000",
           "width": "1000",
           "images": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAB",
+              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003238N000000000PAB",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAB",
+              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAB",
               "resource": {
                 "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAB/full/,300/0/default.jpg",
+                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAB/full/,300/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAB",
+                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAB",
                   "@context": "https://iiif.io/api/image/2/context.json",
                   "profile": "https://iiif.io/api/image/2/level1.json"
                 }
@@ -102,30 +102,30 @@ title: ''
           ],
           "otherContent": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAB&ObjectID=2686&Dept=U",
+              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003238N000000000PAB&ObjectID=2688&Dept=U",
               "@type": "sc:AnnotationList"
             }
           ]
         },
         {
-          "label": "K1C003231N000000000PAC",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAC",
+          "label": "K1C003238N000000000PAC",
+          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAC",
           "@type": "sc:Canvas",
           "height": "1000",
           "width": "1000",
           "images": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAC",
+              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003238N000000000PAC",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAC",
+              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAC",
               "resource": {
                 "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAC/full/,300/0/default.jpg",
+                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAC/full/,300/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAC",
+                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAC",
                   "@context": "https://iiif.io/api/image/2/context.json",
                   "profile": "https://iiif.io/api/image/2/level1.json"
                 }
@@ -134,30 +134,30 @@ title: ''
           ],
           "otherContent": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAC&ObjectID=2686&Dept=U",
+              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003238N000000000PAC&ObjectID=2688&Dept=U",
               "@type": "sc:AnnotationList"
             }
           ]
         },
         {
-          "label": "K1C003231N000000000PAD",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAD",
+          "label": "K1C003238N000000000PAD",
+          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAD",
           "@type": "sc:Canvas",
           "height": "1000",
           "width": "1000",
           "images": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAD",
+              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003238N000000000PAD",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAD",
+              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAD",
               "resource": {
                 "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAD/full/,300/0/default.jpg",
+                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAD/full/,300/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAD",
+                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAD",
                   "@context": "https://iiif.io/api/image/2/context.json",
                   "profile": "https://iiif.io/api/image/2/level1.json"
                 }
@@ -166,30 +166,30 @@ title: ''
           ],
           "otherContent": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAD&ObjectID=2686&Dept=U",
+              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003238N000000000PAD&ObjectID=2688&Dept=U",
               "@type": "sc:AnnotationList"
             }
           ]
         },
         {
-          "label": "K1C003231N000000000PAE",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAE",
+          "label": "K1C003238N000000000PAE",
+          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAE",
           "@type": "sc:Canvas",
           "height": "1000",
           "width": "1000",
           "images": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAE",
+              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003238N000000000PAE",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAE",
+              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAE",
               "resource": {
                 "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAE/full/,300/0/default.jpg",
+                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAE/full/,300/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAE",
+                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAE",
                   "@context": "https://iiif.io/api/image/2/context.json",
                   "profile": "https://iiif.io/api/image/2/level1.json"
                 }
@@ -198,30 +198,30 @@ title: ''
           ],
           "otherContent": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAE&ObjectID=2686&Dept=U",
+              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003238N000000000PAE&ObjectID=2688&Dept=U",
               "@type": "sc:AnnotationList"
             }
           ]
         },
         {
-          "label": "K1C003231N000000000PAF",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAF",
+          "label": "K1C003238N000000000PAF",
+          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAF",
           "@type": "sc:Canvas",
           "height": "1000",
           "width": "1000",
           "images": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAF",
+              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003238N000000000PAF",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAF",
+              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003238N000000000PAF",
               "resource": {
                 "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAF/full/,300/0/default.jpg",
+                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAF/full/,300/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAF",
+                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003238N000000000PAF",
                   "@context": "https://iiif.io/api/image/2/context.json",
                   "profile": "https://iiif.io/api/image/2/level1.json"
                 }
@@ -230,167 +230,7 @@ title: ''
           ],
           "otherContent": [
             {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAF&ObjectID=2686&Dept=U",
-              "@type": "sc:AnnotationList"
-            }
-          ]
-        },
-        {
-          "label": "K1C003231N000000000PAG",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAG",
-          "@type": "sc:Canvas",
-          "height": "1000",
-          "width": "1000",
-          "images": [
-            {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAG",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAG",
-              "resource": {
-                "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAG/full/,300/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAG",
-                  "@context": "https://iiif.io/api/image/2/context.json",
-                  "profile": "https://iiif.io/api/image/2/level1.json"
-                }
-              }
-            }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAG&ObjectID=2686&Dept=U",
-              "@type": "sc:AnnotationList"
-            }
-          ]
-        },
-        {
-          "label": "K1C003231N000000000PAH",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAH",
-          "@type": "sc:Canvas",
-          "height": "1000",
-          "width": "1000",
-          "images": [
-            {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAH",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAH",
-              "resource": {
-                "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAH/full/,300/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAH",
-                  "@context": "https://iiif.io/api/image/2/context.json",
-                  "profile": "https://iiif.io/api/image/2/level1.json"
-                }
-              }
-            }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAH&ObjectID=2686&Dept=U",
-              "@type": "sc:AnnotationList"
-            }
-          ]
-        },
-        {
-          "label": "K1C003231N000000000PAI",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAI",
-          "@type": "sc:Canvas",
-          "height": "1000",
-          "width": "1000",
-          "images": [
-            {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAI",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAI",
-              "resource": {
-                "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAI/full/,300/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAI",
-                  "@context": "https://iiif.io/api/image/2/context.json",
-                  "profile": "https://iiif.io/api/image/2/level1.json"
-                }
-              }
-            }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAI&ObjectID=2686&Dept=U",
-              "@type": "sc:AnnotationList"
-            }
-          ]
-        },
-        {
-          "label": "K1C003231N000000000PAJ",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAJ",
-          "@type": "sc:Canvas",
-          "height": "1000",
-          "width": "1000",
-          "images": [
-            {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAJ",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAJ",
-              "resource": {
-                "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAJ/full/,300/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAJ",
-                  "@context": "https://iiif.io/api/image/2/context.json",
-                  "profile": "https://iiif.io/api/image/2/level1.json"
-                }
-              }
-            }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAJ&ObjectID=2686&Dept=U",
-              "@type": "sc:AnnotationList"
-            }
-          ]
-        },
-        {
-          "label": "K1C003231N000000000PAK",
-          "@id": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAK",
-          "@type": "sc:Canvas",
-          "height": "1000",
-          "width": "1000",
-          "images": [
-            {
-              "@id": "https://digitalarchive.npm.gov.tw/Annotation/K1C003231N000000000PAK",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "on": "https://digitalarchive.npm.gov.tw/Canvas/K1C003231N000000000PAK",
-              "resource": {
-                "description": "",
-                "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAK/full/,300/0/default.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "service": {
-                  "@id": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C003231N000000000PAK",
-                  "@context": "https://iiif.io/api/image/2/context.json",
-                  "profile": "https://iiif.io/api/image/2/level1.json"
-                }
-              }
-            }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003231N000000000PAK&ObjectID=2686&Dept=U",
+              "@id": "https://digitalarchive.npm.gov.tw/Antique/setJsonOtherContent?server=iiifod&n1=K1C&item=K1C003238N000000000PAF&ObjectID=2688&Dept=U",
               "@type": "sc:AnnotationList"
             }
           ]
