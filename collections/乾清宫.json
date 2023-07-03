@@ -15,6 +15,12 @@
             "title": "Jade2",
             "description": "",
             "thumbnail": ""
+        },
+        {
+            "board": "<iiif-storyboard annotationurl='https://zihan0315.github.io/Try_Wax_Website/annotations/k1c003238n000000000paa-list.json'></iiif-storyboard>",
+            "title": "jade3",
+            "description": "",
+            "thumbnail": ""
         }
     ]
 }
