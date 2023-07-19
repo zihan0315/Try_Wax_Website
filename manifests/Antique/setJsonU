@@ -1,12 +1,12 @@
 ---
-added: '2023-06-28 14:40:35.482900'
+added: '2023-07-19 15:10:55.550108'
 thumbnail: ''
 title: ''
 
 ---
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://zihan0315.github.io/Try_Wax_Website/manifests/Antique/setJsonU?uid=50565&Dept=U/manifest.json",
+  "@id": "https://zihan0315.github.io/jadesproject9_on_annonatate/manifests/Antique/setJsonU?uid=50565&Dept=U/manifest.json",
   "@type": "sc:Manifest",
   "label": "NPM \u6545\u5bae - \u7389\u5e73\u53e3\u82b1\u857e\u5f62\u96d9\u67c4\u7897",
   "logo": "https://www.npm.gov.tw/images/favicon/apple-icon-57x57.png",
