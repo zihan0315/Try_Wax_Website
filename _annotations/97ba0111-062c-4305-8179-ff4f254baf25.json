@@ -1,0 +1,41 @@
+---
+canvas: "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C002430N000000000PAA/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\u9890\u548c\u8f69",
+            "purpose": "identifying",
+            "creator": {
+                "id": "zihan0315",
+                "name": "Zihan Feng"
+            },
+            "created": "2023-07-19T15:11:18.727Z",
+            "modified": "2023-07-19T15:11:23.243Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "FC_Palace",
+            "creator": {
+                "id": "zihan0315",
+                "name": "Zihan Feng"
+            },
+            "created": "2023-07-19T15:11:26.605Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiifod.npm.gov.tw/iiif/2/K1C%2FK1C002430N000000000PAA/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=275.20330810546875,412.2560119628906,2297.7681274414062,1521.1928405761719"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "97ba0111-062c-4305-8179-ff4f254baf25.json",
+    "motivation": "commenting"
+}
