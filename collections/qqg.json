@@ -5,7 +5,7 @@
     "type": "storyboardlist",
     "items": [
         {
-            "board": "<iiif-storyboard annotationurl='https://zihan0315.github.io/Try_Wax_Website/annotations/2-k1c-2fk1c002471n000000000paa-list.json'></iiif-storyboard>",
+            "board": "<iiif-storyboard annotationurl='https://zihan0315.github.io/jadesproject9_on_annonatate/annotations/2-k1c-2fk1c002471n000000000paa-list.json'></iiif-storyboard>",
             "title": "Jade1",
             "description": "",
             "thumbnail": ""
@@ -17,7 +17,7 @@
             "thumbnail": ""
         },
         {
-            "board": "<iiif-storyboard annotationurl='https://zihan0315.github.io/Try_Wax_Website/annotations/k1c003238n000000000paa-list.json'></iiif-storyboard>",
+            "board": "<iiif-storyboard annotationurl='https://zihan0315.github.io/jadesproject9_on_annonatate/annotations/k1c003238n000000000paa-list.json'></iiif-storyboard>",
             "title": "jade3",
             "description": "",
             "thumbnail": ""
